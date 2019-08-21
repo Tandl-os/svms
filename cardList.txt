@@ -1,20 +1,20 @@
 sylvan library. sylvan safekeeper. maze of ith. enlightened tutor. selvala, heart of the wilds. damnation. aura shards. Praetor's Counsel.
-lake of the dead. azusa, lost but seeking. thought vessel. arena rector. doubling season. bane of progress. curtain's call. Startled Awake.
+lake of the dead. azusa, lost but seeking. thought vessel. arena rector. doubling season. bane of progress. curtain's call.
 winding canyons. boseiju, who shelters all. phyrexian tower. dark depths. rhystic study. propaganda. Path of Ancestry. Forbidden Orchard.
-leyline of anticipation. expropriate. oracle of mul daya. extraplanar lense. deadly tempest. parallel lives. Privileged Position. Preordain.
+expropriate. oracle of mul daya. extraplanar lense. deadly tempest. parallel lives. Privileged Position.
 craterhoof behemoth. emrakul, the promised end. windgrace's judgement. Arixmethes, Slumbering Isle. Psychic Corrosion. Baleful Strix.
 omniscience. sword of fire and ice. sword of feast and famine. sword of light and shadow. sword of war and peace. Sylvan Reclamation.
 sword of body and mind. noxious gearhulk. grave titan. torrential gearhulk. Karmic Guide. sensei's divinig top. Sphinx's Tutelage. 
-grim monolith. walking ballista. emerald medallion. ruby medallion. jet medallion. pearl medallion. Merciless Eviction. Expansion // Explosion.
-lightning greaves. hammer of purphoros. sol ring. grave pact. Zendikar Resurgent. seal of the guildpact. balefire liege. Riddlekeeper.
+grim monolith. walking ballista. emerald medallion. ruby medallion. jet medallion. pearl medallion. Merciless Eviction.
+hammer of purphoros. sol ring. grave pact. Zendikar Resurgent. seal of the guildpact. balefire liege. Riddlekeeper.
 Nim Deathmantle. Dread Return. Massacre Wurm. Beseech the Queen. fire diamond. amulet of vigor. ranger-captain of eos. Memory Erosion.
 Wurmcoil Engine. Corpse Augur. Hangarback Walker. Boreas Charger. cabal coffers. dualcaster mage. coldsteel heart. Kiora's Follower.
 Path to Exile. Praetor's Counsel. Teferi's Protection. Vault of the Archangel. Recruiter of the Guard. Myriad Landscape. Wear // Tear.
-Purphoros, God of the Forge. Mogis, God of Slaughter. command tower. world shaper. flood plain. Generous Gift. Force of Vigor. Talisman of Curiosity. prismatic vista. 
+Purphoros, God of the Forge. Mogis, God of Slaughter. command tower. world shaper. flood plain. Force of Vigor. Talisman of Curiosity. prismatic vista. 
 exploration. vedalken orrery. mana vault. mana crypt. bramble sovereign. petrified field. wasteland. command beacon. Search for Azcanta.
-Solemn Simulacrum. Cloud Key. Semblance Anvil. Ashnod's Altar. Panharmonicon. Pyromancer's Goggles. Yawgmoth, Thran Physician. Ponder.
+Solemn Simulacrum. Cloud Key. Semblance Anvil. Panharmonicon. Pyromancer's Goggles. Yawgmoth, Thran Physician.
 kalitas, traitor of ghet. tarmogoyf. reanimate. nihil spellbomb. fiery confluence. thrun, the last troll. vexing shusher. kolaghan's command. collector ouphe.
-bitterblossom. noble hierarch. meren of clan nel toth. dark confidant. ancient tomb. huntmaster of the fells. reflecting pool. sorcerous spyglass. cast down.
-nissa, vastwood seer. thoughseize. blooming marsh. liliana of the veil. spawn of mayhem. copperline gorge. xenagos, the reveler. vial smasher the fierce. blackcleave cliffs.
-inquisition of kozilek. wrenn of six. fatal push. grim flayer. demonic tutor. collective brutality. dire fleet daredevil. green sun's zenith. courser of kruphix. toxic deluge.
-urborg, tomb of yawgmoth. Preordain. Jace's Erasure
+noble hierarch. meren of clan nel toth. dark confidant. ancient tomb. huntmaster of the fells. reflecting pool. sorcerous spyglass.
+nissa, vastwood seer. thoughseize. liliana of the veil. spawn of mayhem. copperline gorge. xenagos, the reveler. vial smasher the fierce. blackcleave cliffs.
+wrenn of six. demonic tutor. collective brutality. courser of kruphix. toxic deluge.
+urborg, tomb of yawgmoth.
